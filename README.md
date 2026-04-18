@@ -33,7 +33,7 @@ The model trains automatically on first launch and is cached to `models/housing_
 
 | Metric        | Value         |
 |---------------|---------------|
-| R² Score      | ~0.644        |
+| R² Score      | ~0.990      |
 | MAE           | ~₹10.1 Lakh   |
 | Algorithm     | Gradient Boosting Regressor |
 | Dataset       | 545 samples   |
